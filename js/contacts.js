@@ -16,5 +16,11 @@ var peeps = [
     email: 'thejugger@jupiter.com',
     tel: '+55551234',
     loc: [816040000, 740550000]
+  },
+  {
+    name: 'Pluto Naruto',
+    email: 'iamtooaplanet@notanasteroid.com',
+    tel: '+55551234',
+    loc: [979798797987, 2837482374767234862384767832647623746]
   }
 ];
